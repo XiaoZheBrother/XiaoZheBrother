@@ -37,11 +37,11 @@ $ cat current-task.txt
 
 [查看源码 →](https://github.com/offercontext/offerPilot)
 
-### 🧩 OfferContext · 和重复填表有点私人恩怨
+### 🧩 OfferContext · 机会别漏，投递别乱
 
-围绕校招机会发现、投递管理、简历智能填表和经验交流，做一套能实际用起来的求职工具。
+聚合校招机会，按岗位和城市等条件筛选，把感兴趣的机会与投递进度集中管理。从发现岗位到跟进笔试、面试，让下一步有处可查。
 
-> 简历已经上传了。为什么还要把简历再填一遍。为什么。
+> 岗位收藏了，链接失踪了。简历投过了，投哪忘记了。
 
 [打开工作台 →](https://hub.offercontext.cn)
 
@@ -49,7 +49,7 @@ $ cat current-task.txt
 
 配合 OfferContext 账号复用网申资料，辅助填写招聘网站表单、快捷复制与补填，还能把当前岗位收录到投递看板。填写结果由你核对，申请由你提交。
 
-> 同一段教育经历，已经在不同网站接受了几十次义务教育。
+> 简历已经上传了。为什么还要把简历再填一遍。为什么。
 
 [安装 Chrome 插件 →](https://chromewebstore.google.com/detail/offercontext-%E6%8A%95%E9%80%92%E5%8A%A9%E6%89%8B/anofdihkabelikheknfacppkenfcnfkd)
 
