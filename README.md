@@ -11,7 +11,7 @@
 把重复劳动交给程序，把不确定性交给 AI。  
 最后的确认按钮，留给人类。
 
-[正在造的东西 ↓](#正在造的东西) · [OfferPilot](https://github.com/offercontext/offerPilot) · [OfferContext Hub](https://hub.offercontext.cn)
+[正在造的东西 ↓](#正在造的东西) · [OfferPilot](https://github.com/offercontext/offerPilot) · [OfferContext Hub](https://hub.offercontext.cn) · [投递助手插件](https://chromewebstore.google.com/detail/offercontext-%E6%8A%95%E9%80%92%E5%8A%A9%E6%89%8B/anofdihkabelikheknfacppkenfcnfkd)
 
 </div>
 
@@ -29,7 +29,7 @@ $ cat current-task.txt
 
 ## 正在造的东西
 
-### 🛫 OfferPilot · 给求职装一个副驾驶
+### 🛫 OfferPilot · 你的求职领航员
 
 开源、本地优先的 AI 求职工作台。把投递、简历、模拟面试、复盘和 Offer 对比放到一起，让每次准备都有迹可循。
 
@@ -44,6 +44,14 @@ $ cat current-task.txt
 > 简历已经上传了。为什么还要把简历再填一遍。为什么。
 
 [打开工作台 →](https://hub.offercontext.cn)
+
+### 🧰 OfferContext 投递助手 · 让简历少做几次自我介绍
+
+配合 OfferContext 账号复用网申资料，辅助填写招聘网站表单、快捷复制与补填，还能把当前岗位收录到投递看板。填写结果由你核对，申请由你提交。
+
+> 同一段教育经历，已经在不同网站接受了几十次义务教育。
+
+[安装 Chrome 插件 →](https://chromewebstore.google.com/detail/offercontext-%E6%8A%95%E9%80%92%E5%8A%A9%E6%89%8B/anofdihkabelikheknfacppkenfcnfkd)
 
 ## 技术成分表
 
